@@ -1,0 +1,6 @@
+node_modules
+dist
+build
+.idea/*
+neo-core-css.white.min.css
+**/fonts
